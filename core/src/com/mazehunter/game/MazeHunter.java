@@ -20,6 +20,8 @@ public class MazeHunter extends ApplicationAdapter implements InputProcessor {
     Walls walls;
     Background background;
     OrthographicCamera cam;
+	
+	/*Hej Git*/
 
     @Override
     public void create() {
